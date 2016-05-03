@@ -1,4 +1,4 @@
 #!/bin/bash -e
 cp -Rf /tmp/src/. ./
 pwd
-chmod +x /opt/app-root/app.sh
+chmod +x /opt/app-root/src/app.sh
