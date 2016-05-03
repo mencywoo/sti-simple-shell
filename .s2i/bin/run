@@ -1,2 +1,2 @@
 #!/bin/bash -e
-exec /opt/openshift/src/app.sh
+exec /opt/app-root/src/app.sh 
