@@ -1,3 +1,5 @@
 #!/bin/bash -e
 cp -Rf /tmp/src/. ./
+pwd
+find / -name "app.sh"
 chmod +x /opt/app-root/src/app.sh
